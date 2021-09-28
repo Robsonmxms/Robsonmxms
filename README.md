@@ -2,10 +2,10 @@
 
 - 👨‍💻 I'm currently just a computer engineering student
 - 📖 I’m currently learning: 
-  + Data Science; 
-  + Game Development;
-  + Machine Learning; 
-  + Mobile Development; 
+  + 📊 Data Science; 
+  + 🎮 Game Development;
+  + 🖥️ Machine Learning; 
+  + 📱 Mobile Development; 
 - 🏳️‍🌈 Pronouns: he/him
   
 <div align="center">
