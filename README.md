@@ -9,7 +9,7 @@
   + 📱 Mobile Development; 
 - 🕵️ Curious facts about me:
   + 🩰 I'm an ex-ballet-boy;
-  + 📚 I love writing since my childhood, but I've never published a book;
+  + 📚 I love writing poems and prose since childhood;
   + 🏳️‍🌈 I'm a former vice president of a national LGBTQIA+ study group ([GATE](https://www.instagram.com/gate.brasil/));
 
   
