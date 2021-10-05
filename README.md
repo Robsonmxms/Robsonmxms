@@ -1,7 +1,7 @@
 # About me
 
 - 🥰 Pronouns: he/him
-- 👨‍💻 I'm currently studying computer engineering at [IFCE](https://ifce.edu.br/fortaleza)
+- 👨‍💻 I'm currently studying computer engineering at Instituto Federal de Educação, Ciência e Tecnologia do Ceará ([IFCE](https://ifce.edu.br/fortaleza))
 - 📖 I’m currently learning: 
   + 📊 Data Science; 
   + 🎮 Game Development;
