@@ -19,12 +19,7 @@
 
 ![Anurag's Langs stats](https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=Robsonmxms&layout=compact&card_width=400&hide_title=true&theme=github_dark&langs_count=10&hide_border=true)
 
-<div style="display:flex; justify-content:center; align-items:center;">
-  <a href="https://metrics.lecoq.io/insights/Robsonmxms" style="display:inline-block; color:#FFFFFF; padding:10px 20px; text-decoration:none; border-radius:3x;">
-    <span style="display:inline-block; background-color:#0E1116; padding: 10px; margin-right: -5px;">More</span>
-    <span style="display:inline-block; background-color:#193063; padding: 10px;">Metrics</span>
-  </a>
-</div>
+[![button](metrics.svg)](https://metrics.lecoq.io/insights/Robsonmxms)
 
 
 ### Contact me:
