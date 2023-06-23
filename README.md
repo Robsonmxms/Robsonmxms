@@ -1,4 +1,4 @@
-![image](image1.jpg)
+<img src="image1.jpg" width="900" height="400" alt="image">
 
 # About me
 
