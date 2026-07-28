@@ -1,27 +1,83 @@
-<img src="image1.jpg" width="900" height="400" alt="image">
+<div align="center">
 
-# About me
+# Hi, I'm Robson Lima Lopes 👋
 
-- 🥰 Pronouns: he/him
-- 👨🏻‍💻 I'm iOS developer intern at Apple Developer Academy | IFCE.
-- 👨🏻‍🎓 I'm currently studying Computer Engineering at Instituto Federal de Educação, Ciência e Tecnologia do Ceará ([IFCE](https://ifce.edu.br/fortaleza))
-- 📖 I’m currently learning about: 
-  + 🛠️ Backend Development;
-  +  iOS Development;
-  + 💻 Machine Learning;
-  + 📊 Data Science;
+### Backend Software Engineer · Python · Node.js · AWS
 
-## Analytics & Highlights
+I build reliable APIs, integrations, and cloud-ready services with a focus on  
+clear architecture, maintainability, observability, and business impact.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robsonmxms&hide_title=true&rank_icon=percentile&show_icons=true&theme=github_dark&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-lima-lopes-60616118b/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contactrobsonlopes@gmail.com)
+[![Location](https://img.shields.io/badge/Fortaleza%2C_Brazil-Remote_ready-24292F?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Fortaleza,+CE)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Robsonmxms&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+</div>
 
-![Anurag's Langs stats](https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=Robsonmxms&layout=compact&card_width=400&hide_title=true&theme=github_dark&langs_count=10&hide_border=true)
+## About me
 
-[![button](metrics.svg)](https://metrics.lecoq.io/insights/Robsonmxms)
+I'm a software engineer based in Fortaleza, Brazil, specializing in backend development. My experience spans financial and business platforms, REST APIs, distributed services, third-party integrations, data modeling, performance, and cloud infrastructure.
 
+Currently, I work as a **Backend Developer at Febracis**, building and evolving services with **Python, Node.js, TypeScript, AWS, Docker, and relational/NoSQL databases**. I also apply generative AI to engineering workflows through agents, reusable skills, specifications, and LLM-assisted automation.
 
-### Contact me:
+- 🔭 Focused on scalable, reliable, and maintainable backend systems
+- 🧩 Experienced with microservices, asynchronous processing, integrations, and domain modeling
+- ☁️ Comfortable across application code, cloud infrastructure, containers, CI/CD, and observability
+- 🌎 Open to backend software engineering opportunities in Brazil and remote international teams
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactrobsonlopes@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-lima-lopes-60616118b/)
+## Core stack
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python · TypeScript · JavaScript |
+| **Backend** | Django · Django REST Framework · Flask · Node.js · NestJS · Express |
+| **Cloud & DevOps** | AWS · Docker · CI/CD · Linux · GitHub Actions |
+| **AWS** | Lambda · ECS · ECR · API Gateway · S3 · RDS · DynamoDB · SQS · SNS · EventBridge · CloudWatch |
+| **Data** | PostgreSQL · MySQL · DynamoDB · MongoDB · Redis · Firebase |
+| **Engineering** | REST APIs · Microservices · Event-driven systems · Clean Architecture · SOLID · Automated testing · Observability |
+| **AI-assisted engineering** | LLM workflows · AI agents · Reusable skills · Specification-driven development |
+
+## What I bring to backend teams
+
+- Design and evolution of REST APIs and services for real business workflows
+- Integration with external platforms, payment and signature providers, and internal systems
+- Modeling and persistence across SQL and NoSQL databases
+- Asynchronous workloads using queues, events, workers, and scheduled jobs
+- Production-minded practices: testing, monitoring, logging, containerization, and CI/CD
+- Pragmatic architecture that balances clean boundaries with delivery speed
+
+## Featured projects
+
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [**Risk Calculator API**](https://github.com/Robsonmxms/back-risk-calculator) · *in progress* | Architecture-first backend for portfolio analytics, authentication, market-data adapters, risk metrics, async processing, and observability | TypeScript · Express · PostgreSQL · Redis · AWS |
+| [**POC API**](https://github.com/Robsonmxms/poc-api) | Documented REST API with validation, persistence, migrations, relationships, and automated tests | NestJS · TypeScript · Prisma · SQLite · Jest |
+| [**Automatic Search**](https://github.com/Robsonmxms/automatic_search) | Academic-search automation that collects Google Scholar results and generates structured spreadsheets | Python · Web scraping · XLSX |
+
+## Experience snapshot
+
+- **Backend Developer · Febracis** — 2025–present  
+  Backend services, APIs, integrations, data modeling, cloud deployments, observability, automation, and generative-AI engineering workflows.
+
+- **Full-Stack Developer · Cartos** — 2023–2025  
+  Product development across backend and frontend, with emphasis on APIs, integrations, data, and maintainable delivery.
+
+- **iOS Developer · Apple Developer Academy** — 2022–2023  
+  Native application development, collaborative product work, componentization, and software engineering practices.
+
+- **Software Development Intern · Sou Energy Solar** — 2020–2021  
+  Cross-platform application development and early-stage product engineering.
+
+## Education & languages
+
+- 🎓 Computer Engineering — Federal Institute of Ceará (IFCE)
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Intermediate / technical proficiency
+- 🇪🇸 Spanish — Basic
+
+<div align="center">
+
+### Let's build something reliable.
+
+[LinkedIn](https://www.linkedin.com/in/robson-lima-lopes-60616118b/) · [Email](mailto:contactrobsonlopes@gmail.com) · [GitHub](https://github.com/Robsonmxms)
+
+</div>
